@@ -29,7 +29,7 @@ body {
 }
 
 body {
-  padding: 22px 20px 28px;
+  padding: 22px 20px;
 }
 
 
@@ -63,6 +63,8 @@ h1 {
 
   color: #666666;
   font-size: 0.9rem;
+
+  text-align: center;
 }
 
 h2 {
@@ -125,7 +127,7 @@ a {
    ========================================================= */
 
 .footer-info {
-  margin-top: 36px;
+  margin-top: 24px;
   padding-top: 18px;
 
   border-top: 1px solid #dddddd;
@@ -140,7 +142,7 @@ a {
    ========================================================= */
 
 .copyright {
-  margin-top: 24px;
+  margin-top: 16px;
 
   text-align: center;
 
